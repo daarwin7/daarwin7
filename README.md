@@ -4,10 +4,11 @@ Eu Sou o Star7 E Eu Sou Um Programador!
 Caso Goste dos Meus Projetos, Fique Avonteade Para Me Seguir.
 
 ## 🤔 Informações
-*・Desenvolvedor de *
+*・Desenvolvedor de Bots e Programador Web*
 <p align="left">
 </p>
 
+<div align="center">
  <h2>👤 Contato</h2>
 </div>
 <p align="center">
@@ -17,7 +18,7 @@ Caso Goste dos Meus Projetos, Fique Avonteade Para Me Seguir.
 </p>
 
 <div align="center">
-    <h2>Redes Sociais</h2>
+    <h2💾 Redes Sociais</h2>
 </div>
 <p align="center">
     <a href="https://discord.com/users/920874252511612948">
@@ -26,7 +27,7 @@ Caso Goste dos Meus Projetos, Fique Avonteade Para Me Seguir.
 </p>
 
 <div align="center">
-    <h2>Tecnologias e Ferramentas</h2>
+    <h2>📃 Tecnologias e Ferramentas</h2>
     <p align="center">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
