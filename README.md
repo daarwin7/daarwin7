@@ -18,7 +18,7 @@ Caso Goste dos Meus Projetos, Fique Avonteade Para Me Seguir.
 </p>
 
 <div align="center">
-    <h2💾 Redes Sociais</h2>
+ <h2>💾 Redes Sociais</h2>
 </div>
 <p align="center">
     <a href="https://discord.com/users/920874252511612948">
